@@ -1,0 +1,22 @@
+# Brain Aneurysm Awareness Website
+
+This repository contains an educational website focused on brain aneurysm awareness, including:
+
+- Personal story of surviving a brain aneurysm
+- Warning signs and symptoms
+- Downloadable informational documents
+- Relevant medical images
+
+The site is designed for GitHub Pages hosting.
+
+---
+
+## How to Use
+
+- Visit [https://yourusername.github.io/brain-aneurysm-awareness/](https://yourusername.github.io/brain-aneurysm-awareness/)
+- Download documents via provided links
+- Learn about symptoms and recovery
+
+---
+
+Created by Cass Hartsfield

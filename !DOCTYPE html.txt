@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Brain Aneurysm Awareness</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Brain Aneurysm Awareness</h1>
+  </header>
+
+  <main>
+    <section>
+      <img src="images/aneurysm_image.jfif" alt="Brain Aneurysm Diagram" class="main-image" />
+    </section>
+
+    <section>
+      <h2>My Personal Experience</h2>
+      <p>
+        In 2006, my life took an unexpected turn when I suffered a brain aneurysm. I was working at a health insurance company, building a stable career, when everything changed.
+      </p>
+      <p>
+        It began with symptoms I didn’t immediately recognize — a sudden and severe headache, nausea, blurred vision, sensitivity to light, and confusion. At first, I thought it might be a migraine or just stress. But as the pain worsened and I became disoriented, I was taken to the emergency room.
+      </p>
+      <p>
+        Doctors performed a CT scan that came back negative. However, based on my symptoms, the physician suspected possible meningitis. With my family’s consent, he performed a spinal tap. It was then that he discovered blood in my spinal fluid — a clear sign of bleeding in the brain.
+      </p>
+      <p>
+        I was immediately transported to a larger, more equipped facility. There, I underwent an angiogram, but the initial image was blurry and inconclusive. Days later, a second scan provided a much clearer picture and confirmed the location of the bleed.
+      </p>
+      <p>
+        The following morning, I underwent an 8+ hour brain surgery called a craniotomy. During this procedure, surgeons inserted a clip to secure the aneurysm and stop the bleeding.
+      </p>
+      <p>
+        The recovery was long and incredibly challenging. It affected my health, career, and daily life. But it also gave me a new sense of purpose — to raise awareness about brain aneurysms and help others recognize the warning signs.
+      </p>
+      <p><strong>If sharing my story can help even one person get help sooner or feel less alone, then this project will have fulfilled its purpose.</strong></p>
+    </section>
+
+    <section>
+      <h2>Warning Signs of an Aneurysm</h2>
+      <ul>
+        <li>Sudden and severe headache (often described as "the worst headache of my life")</li>
+        <li>Blurred or double vision</li>
+        <li>Nausea and vomiting</li>
+        <li>Stiff neck</li>
+        <li>Light sensitivity</li>
+        <li>Confusion or trouble concentrating</li>
+        <li>Loss of consciousness</li>
+      </ul>
+      <img src="images/warning signs of aneurysm.jfif" alt="Warning signs" class="side-image" />
+    </section>
+
+    <section>
+      <h2>Downloadable Information</h2>
+      <ul>
+        <li><a href="docs/personal experience_aneurysm.docx" download>Download My Personal Experience (DOCX)</a></li>
+        <li><a href="docs/what happens when a aneurysm ruptures.docx" download>What Happens When a Brain Aneurysm Ruptures (DOCX)</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Gallery</h2>
+      <img src="images/download.jpf" alt="Brain scan" class="gallery-image" />
+      <img src="images/images.jpg" alt="Medical imagery" class="gallery-image" />
+    </section>
+  </main>
+
+  <footer>
+    <p>Website created by Cass Hartsfield</p>
+  </footer>
+
+</body>
+</html>
